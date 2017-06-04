@@ -7,6 +7,9 @@ end
 
 # Making it easy to serialize models for client-side use
 gem 'active_model_serializers' 
+# A usermodel using devise gem
+gem "devise"
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.0.3'
